@@ -1,4 +1,4 @@
-package curriculum;
+package curriculum.b;
 
 public class Question2 {
 

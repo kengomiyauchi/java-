@@ -1,4 +1,4 @@
-package curriculum;
+package curriculum.b;
 
 public class Question4{
 
@@ -61,9 +61,9 @@ public class Question4{
 		}
 		
 		
-        int[] numbers6 = {4, 7, 10, 15, 20};
+        /*int[] numbers6 = {4, 7, 10, 15, 20};
 		
-		/* Scanner sc = new Scanner(System.in);
+		 Scanner sc = new Scanner(System.in);
         int input = sc.nextInt();
 
         boolean found = false;
